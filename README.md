@@ -4,21 +4,21 @@ Welcome to Aora, your gateway to a dynamic world of AI-powered video sharing! Ao
 
 ## Features
 
-- **Onboarding Screen:** 
-- **Robust Authentication & Authorization System:** 
-- **Dynamic Home Screen with Animated Flat List:** 
-- **Pull-to-Refresh Functionality:** 
-- **Animations:** 
-- **Responsiveness:** 
-- **Profile Screen with Detailed Insights:** 
-- **Post Creation Screen for Uploading Media:** 
-- **Tab Navigation:**
-- **Full-Text Search Capability:** 
+- Onboarding Screen
+- Robust Authentication & Authorization System
+- Dynamic Home Screen with Animated Flat List
+- Pull-to-Refresh Functionality
+- Animations
+- Responsiveness
+- Profile Screen with Detailed Insights 
+- Post Creation Screen for Uploading Media
+- Tab Navigation
+- Full-Text Search Capability 
 
 ## Tech Stack
 
-- **React Native:** 
-- **Expo:** 
-- **Nativewind:**
-- **Animatable:** 
-- **Appwrite:** 
+- React Native
+- Expo
+- Nativewind
+- Animatable
+- Appwrite
