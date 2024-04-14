@@ -1,10 +1,6 @@
-# Aora: Share Your World through AI Videos
+# Aora: Video Sharing App
 
 Welcome to Aora, your gateway to a dynamic world of AI-powered video sharing! Aora is not just another video sharing app; it's a platform designed to redefine how you connect, share, and engage with others through captivating visual content.
-
-## Introduction
-
-Crafted with passion and precision using React Native, Aora promises seamless user experiences that transcend boundaries. Whether you're an aspiring creator, an avid viewer, or simply someone who loves to explore the latest trends, Aora invites you to immerse yourself in a realm where creativity knows no bounds.
 
 ## Features
 
@@ -26,5 +22,4 @@ Crafted with passion and precision using React Native, Aora promises seamless us
 - **Nativewind:** Aora's sleek and intuitive user interface is made possible by Nativewind, a powerful library that simplifies the process of designing and implementing UI components.
 - **Animatable:** Elevate your Aora experience with Animatable, a versatile animation library that brings your app to life with captivating transitions and effects.
 - **Appwrite:** Backed by the dependable backend systems of Appwrite, Aora ensures seamless integration, robust security, and reliable performance, allowing you to share your world with confidence.
-
-Join us on Aora and embark on a journey of creativity, discovery, and connection unlike any other. Your story awaits—let's share it with the world, one AI video at a time.
+- 
